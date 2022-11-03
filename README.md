@@ -1,4 +1,4 @@
-# PArchitettura degli elaboratori
+# Architettura degli elaboratori
 Repository contenente gli esercizi svolti a lezione di Architettura degli elaboratori
 
 ## Regole:
